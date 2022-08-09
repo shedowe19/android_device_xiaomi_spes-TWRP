@@ -20,8 +20,7 @@ env:
   Rec_ver: 3.6.0
   Rec_url: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-11
   device: spes
-  DT_url: https://github.com/shashankx86/android_device_xiaomi_spes -b twrp-11
-  DT_path: device/xiaomi/spes
+  DT_url: https://github.com/shedowe19/android_device_xiaomi_spes -b 12.1
   ProductFileHeader: twrp
   target: bootimage
   WorkSpace: WorkSpace
